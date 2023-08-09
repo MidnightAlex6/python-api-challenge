@@ -6,6 +6,8 @@ Data's true power is its ability to definitively answer questions. So, let's tak
 
 ## Collaborators
 
+Worked together with Erin (TA) on this homework assignment. 
+
 ## Instructions
 
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
@@ -69,8 +71,6 @@ Your main tasks will be to use the Geoapify API and the geoViews Python library 
 To succeed on this deliverable of the assignment, open the `VacationPy.ipynb` starter code and complete the following steps:
 
 1. Create a map that displays a point for every city in the `city_data_df` DataFrame as shown in the following image. The size of the point should be the humidity in each city.
-
-    ![Humidity map](https://static.bc-edx.com/data/dl-1-2/m6/lms/img/humidity_map.png)
 
 2. Narrow down the `city_data_df` DataFrame to find your ideal weather condition. For example:
 
